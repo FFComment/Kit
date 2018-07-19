@@ -1,0 +1,6 @@
+framework module _ProjectName_ {
+  umbrella header "__ProjectName__-umbrella.h"
+
+  export *
+  module * { export * }
+}

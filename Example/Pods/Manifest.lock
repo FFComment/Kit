@@ -1,0 +1,16 @@
+PODS:
+  - __ProjectName__ (0.1.0)
+
+DEPENDENCIES:
+  - __ProjectName__ (from `../`)
+
+EXTERNAL SOURCES:
+  __ProjectName__:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  __ProjectName__: 8e4bef282be3d5a91001e044e5c1731f8fc69724
+
+PODFILE CHECKSUM: 83cb3462db511d2f29157dd258ae6650a99b0d61
+
+COCOAPODS: 1.5.3
